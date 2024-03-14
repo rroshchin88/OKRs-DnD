@@ -24,7 +24,7 @@ export default function App() {
 
       <Dnd
         taskId="dnd-1"
-        title="Fill in the blank"
+        title="OKRs"
         wrongAnswers={["😢", "bad"]}
       >
         I am a `drag 'n' drop` <Blank solution="activity" />. This blank has
